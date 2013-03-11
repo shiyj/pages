@@ -1,0 +1,4 @@
+pages
+=====
+
+static html site
